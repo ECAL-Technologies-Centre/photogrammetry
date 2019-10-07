@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://ecal-technologies-centre.github.io'
+url: 'https://ecal-technologies-centre.github.io/photogrammetry/'
 baseurl: ''
 title: 'My website'
 description: 'This is my new website'
